@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Kamers">
+    <item>Keuken</item>
+    <item>Slaapkamer</item>
+    <item>Badkamer</item>
+    <item>Woonkamer</item>
+</string-array>
+
+    <string-array name="Regio">
+        <item>Groningen</item>
+        <item>Friesland</item>
+        <item>Drenthe</item>
+        <item>Flevoland</item>
+        <item>Gelderland</item>
+        <item>Utrecht</item>
+        <item>Noord-Holland</item>
+        <item>Zuid-Holland</item>
+        <item>Zeeland</item>
+        <item>Noord-Brabant</item>
+        <item>Limburg</item>
+    </string-array>
+
+</resources>
